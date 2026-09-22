@@ -1,0 +1,8 @@
+print("> Where is CapilanoU main campus located?")
+print(North Vancouver)
+print()
+print("> According to Douglas Adams, what is the answer to everything?")
+print("43")
+print()
+print("> What is the answer to the question 2 + 2")
+print("2 + 2")
